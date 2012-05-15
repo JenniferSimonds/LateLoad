@@ -1,2 +1,3 @@
 LateLoad is a JavaScript class you can use to force third party widgets to delay loading their scripts until your page is ready for them to load.
 
+For a full description & API reference, see http://www.atomicjetpacks.com/blog/6/lateload-a-javascript-class-to-delay-widget-loading
