@@ -1,0 +1,2 @@
+LateLoad is a JavaScript class you can use to force third party widgets to delay loading their scripts until your page is ready for them to load.
+
